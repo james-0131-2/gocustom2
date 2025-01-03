@@ -1,2 +1,2 @@
 # go-cus-module
-this his test go module
+th2is his test go module
