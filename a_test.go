@@ -1,4 +1,4 @@
-package gocusmod
+package gocustom2
 
 import "testing"
 import "fmt"
